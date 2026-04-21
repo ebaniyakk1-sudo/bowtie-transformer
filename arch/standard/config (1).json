@@ -1,0 +1,13 @@
+{
+  "architectures": [
+    "BowtieTransformer"
+  ],
+  "d_model": 512,
+  "d_small": 128,
+  "dtype": "float32",
+  "max_seq_len": 128,
+  "model_type": "bowtie_transformer",
+  "n_layers": 26,
+  "transformers_version": "5.0.0",
+  "vocab_size": 50257
+}
